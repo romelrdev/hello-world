@@ -1,4 +1,4 @@
-## Hey there! <img src="https://media.giphy.com/media/JsJeOYiPxJ1Q2f6bM5/source.gif" width="50px"><br> 
+## Hey there! <img src="https://media.giphy.com/media/JsJeOYiPxJ1Q2f6bM5/source.gif" width="80px"><br> 
 # I'm Romel Ramnarain Jr, a full-stack software engineer.<br>
 
 I'm currently a freelance web developer.<br>
