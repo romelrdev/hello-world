@@ -4,7 +4,8 @@
 <hr>
 
 <p align="center">I'm currently a freelance web developer.<br>
-I like making beats too.</p>
+I like making beats too.<br>
+Resilient Coders made me.</p>
 
 <hr>
 
