@@ -4,8 +4,8 @@
 <hr>
 
 <p align="center">I'm currently a freelance web developer.<br>
-I like making beats too.<br></p>
+I like making beats too.</p>
 
 <hr>
 
-<h5 align="center"><Want to get in touch about serious stuff? Email me: romelrdev@gmail.com</h5>
+<h5 align="center">Want to get in touch about serious stuff? Email me: romelrdev@gmail.com</h5>
