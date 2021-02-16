@@ -1,5 +1,5 @@
-## Hey there! <iframe src="https://giphy.com/embed/JsJeOYiPxJ1Q2f6bM5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/amine-transparent-JsJeOYiPxJ1Q2f6bM5">via GIPHY</a></p><br> 
-I'm Romel Ramnarain Jr, a full-stack software engineer.<br>
+## Hey there! <img src="https://media.giphy.com/media/JsJeOYiPxJ1Q2f6bM5/source.gif" width="50px"<br> 
+# I'm Romel Ramnarain Jr, a full-stack software engineer.<br>
 
 I'm currently a freelance web developer.<br>
 I like making beats too.<br>
