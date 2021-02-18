@@ -3,8 +3,7 @@
 
 <hr>
 
-<p align="center">I'm currently a freelance web developer.<br>
-I like making beats too.<br>
+<p align="center">I'm currently a freelance software engineer.<br>
 Resilient Coders made me.</p>
 
 <hr>
