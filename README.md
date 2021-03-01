@@ -3,8 +3,7 @@
 
 <hr>
 
-<p align="center">I'm currently a freelance software engineer.<br>
-Resilient Coders made me.</p>
+<p align="center">I'm currently a freelance software engineer.</p>
 
 <hr>
 
